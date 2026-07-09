@@ -19,12 +19,12 @@
 # else:
 #     print("x is less than 4")
 
-#     # >
-#     # <
-#     # >=
-#     # <=
-#     # ==
-#     # !=
+#     # > means greater than
+#     # < means lower than
+#     # >= greater or equal to
+#     # <= less than or equal to
+#     # == is equal to
+#     # !=  not equal to
 
 def myFunction():
     x = 3
