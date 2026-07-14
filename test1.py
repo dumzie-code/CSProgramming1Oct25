@@ -58,7 +58,17 @@ def Fatine():
 #   print("ssss")
 
 # Fatine()
+distance= [100, 1500]
+print(distance)
 
+
+
+num1=6
+num2=4
+
+remainder= num1%num2
+print(remainder)
+  
 
 #input => asks user for input
 
@@ -88,3 +98,26 @@ def Fatine():
 # Sum
 # Product
 # If the sum is greater than 100, display: "That's a big number!"
+
+if 5>2:
+    print ("hello")
+age=10# one = is for assigning values
+age!= 30# age is not 30
+age= int(input("Enter your age ="))
+if age == 38: #double ==used to condtion so if age is 38
+ print("adult")
+
+else:
+ print("minor")
+
+ #len() returns the length of values in a lits
+ #print(help(fruits)) to find what your list can do
+ #print("pine" in fruits) t6o find if something is part of a lisrt
+  #fruits.append("pineapple")
+  #fruits.remove("apple")
+  #fruits.insert(0, "pineapple")- to addd a new f  
+  #fruits.sorts() - to sort a list
+  #fruits.reverse()- to reverse the order of a list
+  #fruits.clear()- to clear to a list
+  #fruit.count(0)- how many 0s in a list
+  #fruits.index()- retutn the index
